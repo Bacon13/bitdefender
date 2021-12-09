@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="196" height="121" viewBox="0 0 196 121">
+    <defs>
+        <style>
+            .cls-1{fill:#fff;opacity:.8}.cls-2{fill:#008cff}
+        </style>
+    </defs>
+    <g id="pattern_grid" transform="rotate(-90 1399.661 4049.553)">
+        <rect id="Rectangle_1477" width="6" height="6" class="cls-1" rx="3" transform="translate(5328.214 2649.892)"/>
+        <rect id="Rectangle_1505" width="6" height="6" class="cls-2" rx="3" transform="translate(5328.214 2801.892)"/>
+        <rect id="Rectangle_1488" width="6" height="6" class="cls-1" rx="3" transform="translate(5328.214 2725.892)"/>
+        <rect id="Rectangle_1484" width="6" height="6" class="cls-1" rx="3" transform="translate(5328.214 2687.892)"/>
+        <rect id="Rectangle_1503" width="6" height="6" class="cls-1" rx="3" transform="translate(5328.214 2839.892)"/>
+        <rect id="Rectangle_1489" width="6" height="6" class="cls-1" rx="3" transform="translate(5328.214 2763.892)"/>
+        <rect id="Rectangle_1480" width="6" height="6" class="cls-1" rx="3" transform="translate(5404.214 2649.892)"/>
+        <rect id="Rectangle_1506" width="6" height="6" class="cls-1" rx="3" transform="translate(5404.214 2801.892)"/>
+        <rect id="Rectangle_1486" width="6" height="6" class="cls-1" rx="3" transform="translate(5404.214 2725.892)"/>
+        <rect id="Rectangle_1482" width="6" height="6" class="cls-1" rx="3" transform="translate(5404.214 2687.892)"/>
+        <rect id="Rectangle_1499" width="6" height="6" class="cls-1" rx="3" transform="translate(5404.214 2839.892)"/>
+        <rect id="Rectangle_1490" width="6" height="6" class="cls-2" rx="3" transform="translate(5404.214 2763.892)"/>
+        <rect id="Rectangle_1478" width="6" height="6" class="cls-1" rx="3" transform="translate(5366.214 2649.892)"/>
+        <rect id="Rectangle_1507" width="6" height="6" class="cls-1" rx="3" transform="translate(5366.214 2801.892)"/>
+        <rect id="Rectangle_1487" width="6" height="6" class="cls-1" rx="3" transform="translate(5366.214 2725.892)"/>
+        <rect id="Rectangle_1483" width="6" height="6" class="cls-1" rx="3" transform="translate(5366.214 2687.892)"/>
+        <rect id="Rectangle_1500" width="6" height="6" class="cls-2" rx="3" transform="translate(5366.214 2839.892)"/>
+        <rect id="Rectangle_1491" width="6" height="6" class="cls-1" rx="3" transform="translate(5366.214 2763.892)"/>
+        <rect id="Rectangle_1479" width="6" height="6" class="cls-1" rx="3" transform="translate(5443.214 2649.892)"/>
+        <rect id="Rectangle_1508" width="6" height="6" class="cls-1" rx="3" transform="translate(5443.214 2801.892)"/>
+        <rect id="Rectangle_1485" width="6" height="6" class="cls-1" rx="3" transform="translate(5443.214 2725.892)"/>
+        <rect id="Rectangle_1481" width="6" height="6" class="cls-2" rx="3" transform="translate(5443.214 2687.892)"/>
+        <rect id="Rectangle_1501" width="6" height="6" class="cls-1" rx="3" transform="translate(5443.214 2839.892)"/>
+        <rect id="Rectangle_1492" width="6" height="6" class="cls-1" rx="3" transform="translate(5443.214 2763.892)"/>
+    </g>
+</svg>
